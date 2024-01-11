@@ -1,0 +1,3 @@
+1 Reducer. Reduktorlar tashqariga yuborilgan harakatlarga javoban dastur holati qanday o'zgarishini aniqlaydi. Esda tutingki, harakatlar dasturning holati qanday o'zgarishini emas, balki faqat nima bo'lganini tasvirlaydi.
+2 Reducer Redux. Reducer state o'zgarishini ta'minlab beruvchi funksiya hisoblanadi. Ushbu funksiya o'zida 2 ta parametr saqlaydi bular state va action, Reducerni ulash uchun store degan papkaga Reducer degan fayl ochamiz.
+3 React Toolkitda slice papka ochsak shu reducer ornini bosadi va Toolkitda reducerlar avtomatic boladi    

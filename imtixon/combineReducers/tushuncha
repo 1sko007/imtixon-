@@ -1,0 +1,4 @@
+1. combineReducers yordamchi funktsiyasi qiymatlari turli xil reduktor funktsiyalari bo'lgan ob'ektni createStore usuliga o'tkazilishi mumkin bo'lgan yagona reduktor funktsiyasiga aylantiradi.
+2 o'z ichiga nma olishi. Reduktorlar (ob'ekt): qiymatlari bittaga birlashtirilishi kerak bo'lgan turli xil reduktor funktsiyalariga mos keladigan ob'ekt.
+3 nma qaytarishi. Reduktor ob'ektidagi har bir reduktorni chaqiradigan va bir xil shakldagi holat ob'ektini yaratadigan reduktor.
+3. combineReducers Reduxga bitta ochsa boʻladi Toolkitga bir nechta 

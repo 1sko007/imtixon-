@@ -1,0 +1,3 @@
+1 Redux actions . Actions - bu sizning ilovangizdan do'konga ma'lumotlarni uzatuvchi tuzilmalar. Ular do'kon uchun yagona ma'lumot manbalari. Siz ularni store.dispatch() usuli yordamida do'konga jo'natasiz.
+Actions oddiy JavaScript obyektlaridir. Amallar bajarilayotgan harakat turini ko'rsatadigan turdagi maydonga ega bo'lishi kerak. Turlar odatda satr konstantalari sifatida ko'rsatilishi kerak. Ilovangiz o'sib chiqqandan so'ng, ularni alohida modulga ko'chirishingiz mumkin.
+2 Redux Toolkitga actions ochish shart emas
